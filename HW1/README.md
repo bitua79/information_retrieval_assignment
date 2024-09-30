@@ -1,4 +1,4 @@
-# Persian Text Mining Projects
+# Homework #1
 
 This repository contains several projects demonstrating basic text mining techniques on Persian text using the Hazm, Parsivar, and DadmaTools libraries.
 
@@ -53,7 +53,7 @@ This project uses the DadmaTools library for processing Persian text.
 
   
 ## Requirements
-- Python 3.6 or higher
+- Python 3.x
 - Install the required libraries:
 ```bash
   pip install hazm parsivar dadmatools unrar
@@ -62,7 +62,7 @@ This project uses the DadmaTools library for processing Persian text.
 ## Usage
 1. Clone this repository.
 2. **Download and extract the dataset**: The code automatically clones the dataset repository and extracts the required files.
-3. **Run the code**: Execute the Jupyter Notebook cells or scripts to process the news data. The output will show the normalized, tokenized, and stemmed versions of the articles.
+3. **Run the code**: Execute the Jupyter Notebook cells to process the news data. The output will show the normalized, tokenized, and stemmed versions of the articles.
 
 ## Notes
 - Each project processes a single news article for demonstration purposes. You can modify the code to process the entire dataset.
