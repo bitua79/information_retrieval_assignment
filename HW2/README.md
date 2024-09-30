@@ -1,6 +1,6 @@
 ### README for Homework #2
 
-## Text Indexing with Hazm in Persian News Articles
+# Text Indexing with Hazm in Persian News Articles
 
 ## Overview
 This repository demonstrates **text indexing** and **preprocessing** techniques on Persian news articles using the **Hazm** library for Persian NLP and covers the following tasks for indexing and analyzing a Persian news dataset.
